@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+
+.grow:hover {
+        -webkit-transform: scale(1.0);
+        -ms-transform: scale(1.0);
+        transform: scale(1.0);
+}
+.blue {
+    color:green;
+    background-color:pink;
+    font-size:20px;
+font-family: 'Inconsolata', monospace;
+}
+.image {
+     height: 55%;
+     width: 55%;
+     font-family: 'Inconsolata', monospace;
+}
+.Pink {
+    background-color:pink;
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+}
+body {
+    background-color:blue;
+}
+.page_3 {
+    background-color:red;
+    font-family: 'Fascinate Inline', cursive;
+}
+.pizza {
+    width:50%;
+}
+a {
+    color:red;
+    font-family: 'Fascinate Inline', cursive;
+}
+#black {
+    background-color:black;
+    font-family: 'Jim Nightshade', cursive;
+}
